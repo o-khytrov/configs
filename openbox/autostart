@@ -1,0 +1,4 @@
+tint2 &
+gxkb &
+nitrogen --restore &
+setxkbmap -layout "us,ru,ua" -option "grp:alt_shift_toggle" &
